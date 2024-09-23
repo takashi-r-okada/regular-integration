@@ -4,6 +4,10 @@
 
 ![figure](sampleOutput/figure.png)
 
+## 定義
+
+![definition](sampleOutput/definition.png)
+
 ## 使い方
 
 lib_regular_integration.py の 
